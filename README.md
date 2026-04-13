@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👤 About Me
 
-<!--
-**Pirot1/Pirot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Timur** *Python Developer | AI Automation Enthusiast | GoLang Developer*
 
-Here are some ideas to get you started:
+I am a passionate developer focused on building efficient automation tools and exploring the intersection of AI and user productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Up To
+- 🔭 **Current Project:** [AnkiCards](https://github.com/Pirot1/AnkiCards) — An AI-powered Anki addon automating flashcard creation from images using OCR and machine translation.
+- 🌱 **Learning:** Advanced PyQt6 UI design and cloud development for resource-constrained environments.
+- 💬 **Ask me about:** Python automation, OCR workflows, and my experience building Anki plugins.
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** - I once spent more time automating a task than the task itself would have taken to do manually — and I’d do it again!
+    - I love cats, cats, and more cats. 🐱
+
+---
+
+### 🔗 Connect With Me
+[GitHub](https://github.com/Pirot1) | [LinkedIn](https://www.linkedin.com/in/timur-sitvaldyyev-54a1a43a1)
